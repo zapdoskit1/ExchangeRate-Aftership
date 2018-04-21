@@ -1,5 +1,5 @@
 # ExchangeRate-Aftership
-Software Engineer Coding Challenge @ Aftership (teddychan GitHub)
+Software Engineer Coding Challenge @ Aftership (teddychan GitHub https://github.com/AfterShip/challenge/blob/software-engineer/coding-challenge.md)
 
 You can go to
 http://exchange-rate-vincent-tang.herokuapp.com
