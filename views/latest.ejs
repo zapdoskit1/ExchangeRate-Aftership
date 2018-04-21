@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+	<head>
+		<title>Latest</title>
+	</head>
+	<body>
+		<div class="w3-container">
+			<h4>
+				Please type in Base and Specific currency in 3-digit ISO code (e.g. USD, AUD)
+			</h4>
+			<form class="w3-container" action="/latestResult" method="get">
+				<label class="w3-label">
+					Base currency (Please use USD as free account cannot change base)
+				</label>
+				<input class="w3-input" type="text" name="base" value="USD" pattern=".{3,}" maxlength="3" required title="Only accept 3 characters">
+				<br />
+				<label class="w3-label">
+					Specific currency
+				</label>
+				<input class="w3-input" type="text" name="symbols" value="HKD" pattern=".{3,}" maxlength="3" required title="Only accept 3 characters">
+				<br />
+				<button class="w3-btn">Exchange</button>
+			</form>
+		</div>
+	</body>
+</html>
