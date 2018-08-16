@@ -14,6 +14,4 @@ Three tier network architecture:
 
 Base can only choose USD as I don't want to upgrate my account at openexchangerates.org :)
 
-My resume: https://1drv.ms/w/s!AlmStT1TGSqkgkVum_tjenF2PBYB
-
 Thank you~
